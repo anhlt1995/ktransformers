@@ -23,7 +23,7 @@
     "pdf-lib": "^1.17.1",
     "pdfobject": "^2.3.0",
     "v-clipboard": "^3.0.0-next.1",
-    "vue": "^3.4.27",
+    "vue": "^3.5.24",
     "vue-i18n": "^9.13.1",
     "vue-pdf": "^4.3.0",
     "vue-router": "^4.0.3",
